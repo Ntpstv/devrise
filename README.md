@@ -41,13 +41,13 @@
 
 ---
 
-### Week 4 (May 6–12)
+### Week 4
 - Focus: Web Security
 - Start TypeScript
 
 ---
 
-### Week 5 (May 13–19)
+### Week 5
 - Focus: Kubernetes
 - Assignment 2
 - Complete:
