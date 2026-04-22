@@ -59,3 +59,4 @@
 ## ⚠️ Rules
 - Focus > multitasking
 - 2 hours MAX/ day
+# devrise
